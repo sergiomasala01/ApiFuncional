@@ -1,12 +1,20 @@
-ApiFuncional - Projeto de Estudo em ASP.NET Core
-Este repositório contém o projeto desenvolvido durante o curso Fundamentos de APIs em ASP.NET Core da plataforma Desenvolvedor.io, ministrado pelo excelente professor Eduardo Pires. Aqui, explorei os conceitos essenciais para criar uma API funcional com .NET, incluindo:
-Fundamentos de APIs e criação com ASP.NET Core  
+# API Funcional - Fundamentos de APIs com ASP.NET Core
 
-Manipulação de dados utilizando EF Core  
+Este projeto foi desenvolvido como parte do curso **"Fundamentos de APIs com ASP.NET Core"** da [Plataforma Desenvolvedor.io](https://desenvolvedor.io/), ministrado pelo professor **Eduardo Pires**.
 
-Autenticação e autorização com ASP.NET Identity  
+Ao longo do curso, aprendi os fundamentos essenciais para criar APIs com ASP.NET Core, incluindo:
 
-Implementação de JWT para segurança da API
+- Estruturação de projetos em ASP.NET Core;
+- Criação e consumo de endpoints REST;
+- Manipulação de dados com **Entity Framework Core**;
+- Implementação de autenticação e autorização utilizando **ASP.NET Identity**;
+- Introdução e implementação de **JWT (JSON Web Tokens)** para autenticação baseada em tokens.
 
-O objetivo deste projeto foi consolidar meu aprendizado e servir como base para futuros projetos. Agradeço ao Eduardo Pires pelo conhecimento compartilhado e à Desenvolvedor.io pela qualidade do curso. Estou animado para continuar estudando e aplicando esses conceitos em novos projetos! 
+Este repositório contém a API desenvolvida durante os estudos. Pretendo continuar evoluindo este projeto e, em breve, trarei novidades com iniciativas pessoais.
+
+🔗 Acesse o projeto completo aqui no GitHub: [ApiFuncional](https://github.com/sergiomasala01/ApiFuncional)
+
+---
+
+Agradeço ao professor Eduardo Pires e à equipe da Desenvolvedor.io pela didática e qualidade do conteúdo!
 
